@@ -7,6 +7,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/aparnah30](https://github.com/aparnah30)
 
 - 📫 How to reach me **aparnahatte3003@gmail.com**
+- Experienced in Machine Learning, Computer Vision, Natural Language Processing, GenAI.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
