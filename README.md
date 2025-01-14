@@ -4,10 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aparnah30&label=Profile%20views&color=0e75b6&style=flat" alt="aparnah30" /> </p>
 
 - 🌱 I’m currently learning **FastAPI**
+- I'm proficient in developing RAG systems, OpenCV models and deep learning architechtures.
 
 - 📫 How to reach me **aparnahatte3003@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
