@@ -1,15 +1,12 @@
 <h1 align="center">Hi 👋, I'm Aparna Hatte</h1>
-<h3 align="center">A deep learning enthusiast.</h3>
+<h3 align="center">AI/ML developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aparnah30&label=Profile%20views&color=0e75b6&style=flat" alt="aparnah30" /> </p>
 
-- 🔭 I’m currently working on **Deepfake Detection**
-
-- 🌱 I’m currently learning **Node js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aparnah30](https://github.com/aparnah30)
 
-- 📫 How to reach me **aparna.hatte21@pccoepune.org**
+- 📫 How to reach me **aparnahatte3003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
